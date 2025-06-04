@@ -3,3 +3,4 @@ root: index.md
 chapters:
 - file: learning/README.md
 - file: teaching/README.md
+- file: feedbacks/README.md
